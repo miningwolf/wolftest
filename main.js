@@ -2,7 +2,7 @@ var wolfscript;
 var util = require('util');
 
 exports.enable = function (){ 
-    this.getLogman().info("HELLO WOLFPACK");
+    this.getLogman().info("HELLO WOLFTEST");
  
     this.registerCommand({
       "aliases" : ["js"]
